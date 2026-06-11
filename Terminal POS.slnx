@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Setup/Setup.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="Terminal POS.csproj" Id="0ee20897-397e-4714-a846-1d1fb627d49b" />
+</Solution>
